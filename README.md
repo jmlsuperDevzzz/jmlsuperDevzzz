@@ -1,3 +1,4 @@
+<img src="image.png" alt="Repository Image" width="1100" height="200">
 ## Hi, I'm jmlsuperDevzzz👾
 
 Currently learning the basic of front-end and back-end.<br>
